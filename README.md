@@ -1,0 +1,2 @@
+This is a package where you can find all the relevant data structures
+like Linked List, Stack, Queue, Heaps etc... along with a lot of algorothms like bubblesort, mergesort, quick sort, binary search etc..
