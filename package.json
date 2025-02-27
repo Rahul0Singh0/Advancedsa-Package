@@ -1,17 +1,22 @@
 {
-  "name": "advanceddsa.js",
+  "name": "dsapackage",
   "version": "1.0.0",
   "description": "An npm package that can help you to use all of the famous ds and algo in your coding",
   "main": "index.js",
-
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Rahul",
-    "Singh"
+    "ds",
+    "algo",
+    "data structure",
+    "algorithm"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rahul0Singh0/Advancedsa-Package.git"
+  },
   "author": "Rahul Singh",
   "license": "ISC"
 }
