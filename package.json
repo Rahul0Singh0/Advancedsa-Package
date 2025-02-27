@@ -1,6 +1,6 @@
 {
   "name": "dsapackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that can help you to use all of the famous ds and algo in your coding",
   "main": "index.js",
   "type": "commonjs",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rahul0Singh0/Advancedsa-Package.git"
+    "url": "https://github.com/Rahul0Singh0/Advancedsa-Package"
   },
   "author": "Rahul Singh",
   "license": "ISC"
