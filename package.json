@@ -1,0 +1,17 @@
+{
+  "name": "advanceddsa.js",
+  "version": "1.0.0",
+  "description": "An npm package that can help you to use all of the famous ds and algo in your coding",
+  "main": "index.js",
+
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rahul",
+    "Singh"
+  ],
+  "author": "Rahul Singh",
+  "license": "ISC"
+}
